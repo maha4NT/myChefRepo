@@ -6,3 +6,5 @@
 
 include_recipe 'mywebserverck2::mywebrecipe'
 include_recipe 'mywebserverck2::mytree'
+include_recipe 'mywebserverck2::mymultipack'
+include_recipe 'mywebserverck2::mysql'
