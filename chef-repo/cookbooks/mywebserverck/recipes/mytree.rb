@@ -1,3 +1,10 @@
-package 'tree' do
-    action :install
+
+
+mytreepackk=node['mywebserverck']['mytreepack']
+
+
+
+
+package mytreepackk do
+    action :remove
 end
