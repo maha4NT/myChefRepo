@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures mywebserverck2'
 long_description 'Installs/Configures mywebserverck2'
-version '0.1.9'
+version '0.2.4'
 chef_version '>= 13.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
