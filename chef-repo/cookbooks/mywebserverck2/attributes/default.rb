@@ -14,3 +14,5 @@ default['myweserverck2']['mytreepack']='tree'
 
 default['myweserverck2']['mymultipack']=['git','tree','wget']
 
+force_default['chef_client']['interval']    = '150'
+force_default['chef_client']['splay']       = '75'

@@ -4,8 +4,9 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures mywebserverck2'
 long_description 'Installs/Configures mywebserverck2'
-version '0.2.4'
+version '0.2.8'
 chef_version '>= 13.0'
+
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
@@ -22,3 +23,4 @@ chef_version '>= 13.0'
 
 
 depends 'mysql', '~> 8.0'
+depends 'chef-client', '~> 12.3.1'
