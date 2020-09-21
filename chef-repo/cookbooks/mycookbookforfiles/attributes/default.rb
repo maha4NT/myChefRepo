@@ -1,0 +1,1 @@
+default['mycookbookforfiles']['myvars']='git'
