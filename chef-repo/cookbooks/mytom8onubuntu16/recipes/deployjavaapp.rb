@@ -1,5 +1,7 @@
-remote_file 'https://get.jenkins.io/war-stable/2.249.1/jenkins.war' do
-    source '/opt/tomcat/webapps/jenkins.war'
+
+remote_file '/opt/tomcat/webapps/mahaLogin.war' do
+    source 'https://maha52iaccc.s3.us-east-2.amazonaws.com/mahaLogin.war'
     mode '0755'
     action :create
 end
+
