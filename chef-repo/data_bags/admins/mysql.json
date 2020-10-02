@@ -1,0 +1,10 @@
+{
+  "id": "mysql",
+  "passwd": {
+    "encrypted_data": "EDHHxOya5HSItNpSRj/4v5PXVGFOYKDDxaGm\n",
+    "iv": "OAl1ojlKqB5OXVJZ\n",
+    "auth_tag": "BDYgJ0y7+a9FttbOpO7GtQ==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}
